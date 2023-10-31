@@ -22,7 +22,7 @@ npm i
 
 ### Dummy Database
 
-Use the following commeand to put some dummy products in that database.
+here,Use the following commeand to put some dummy products in that database.
 Run it in the root folder.
 
 ```
